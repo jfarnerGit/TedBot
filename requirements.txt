@@ -1,0 +1,9 @@
+slackclient
+slackeventsapi
+flask
+gunicorn
+pandas
+nltk
+numpy
+sklearn
+string
