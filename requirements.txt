@@ -5,5 +5,5 @@ gunicorn
 pandas
 nltk
 numpy
-sklearn
+scikit-learn==0.13.1
 string
