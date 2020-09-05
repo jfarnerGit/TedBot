@@ -4,6 +4,6 @@ flask
 gunicorn
 pandas
 nltk
-numpy
+numpy==1.7.0
 scikit-learn==0.13.1
 string
