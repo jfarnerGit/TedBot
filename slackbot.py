@@ -9,7 +9,7 @@ from flask import Flask
 from slack import WebClient
 from slackeventsapi import SlackEventAdapter
 
-from oxycsbot import ted_bot # FIXME replace with your chatbot class
+from mainbot import ted_bot # FIXME replace with your chatbot class
 
 # initialize the Flask app
 app = Flask(__name__)
